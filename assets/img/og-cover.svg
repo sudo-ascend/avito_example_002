@@ -1,0 +1,74 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="120" y1="68" x2="1082" y2="592" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FBFCFF"/>
+      <stop offset="1" stop-color="#E7EEFC"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="74" y1="58" x2="1128" y2="572" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1B2950"/>
+      <stop offset="1" stop-color="#2250A3"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" rx="36" fill="url(#bg)"/>
+  <g opacity="0.45">
+    <path d="M0 52H1200" stroke="#1B2950" stroke-opacity="0.08"/>
+    <path d="M0 104H1200" stroke="#1B2950" stroke-opacity="0.08"/>
+    <path d="M0 156H1200" stroke="#1B2950" stroke-opacity="0.08"/>
+    <path d="M0 208H1200" stroke="#1B2950" stroke-opacity="0.08"/>
+    <path d="M0 260H1200" stroke="#1B2950" stroke-opacity="0.08"/>
+    <path d="M0 312H1200" stroke="#1B2950" stroke-opacity="0.08"/>
+    <path d="M0 364H1200" stroke="#1B2950" stroke-opacity="0.08"/>
+    <path d="M0 416H1200" stroke="#1B2950" stroke-opacity="0.08"/>
+    <path d="M0 468H1200" stroke="#1B2950" stroke-opacity="0.08"/>
+    <path d="M0 520H1200" stroke="#1B2950" stroke-opacity="0.08"/>
+    <path d="M52 0V630" stroke="#1B2950" stroke-opacity="0.08"/>
+    <path d="M104 0V630" stroke="#1B2950" stroke-opacity="0.08"/>
+    <path d="M156 0V630" stroke="#1B2950" stroke-opacity="0.08"/>
+    <path d="M208 0V630" stroke="#1B2950" stroke-opacity="0.08"/>
+    <path d="M260 0V630" stroke="#1B2950" stroke-opacity="0.08"/>
+    <path d="M312 0V630" stroke="#1B2950" stroke-opacity="0.08"/>
+    <path d="M364 0V630" stroke="#1B2950" stroke-opacity="0.08"/>
+    <path d="M416 0V630" stroke="#1B2950" stroke-opacity="0.08"/>
+    <path d="M468 0V630" stroke="#1B2950" stroke-opacity="0.08"/>
+    <path d="M520 0V630" stroke="#1B2950" stroke-opacity="0.08"/>
+  </g>
+  <circle cx="1048" cy="112" r="74" fill="#F0B44E" fill-opacity="0.18"/>
+  <circle cx="158" cy="536" r="108" fill="#DCE7FB"/>
+  <rect x="70" y="58" width="1060" height="514" rx="34" fill="url(#panel)"/>
+  <rect x="108" y="96" width="494" height="436" rx="30" fill="#F9FBFF" fill-opacity="0.08"/>
+  <rect x="152" y="136" width="208" height="46" rx="23" fill="#F0B44E"/>
+  <text x="184" y="165" fill="#1B2950" font-family="IBM Plex Mono, monospace" font-size="20" font-weight="600">РЕПЕТИТОР ПО МАТЕМАТИКЕ</text>
+  <text x="152" y="264" fill="#F5F8FF" font-family="Sora, Segoe UI, sans-serif" font-size="60" font-weight="800" letter-spacing="-2.2">
+    Спокойно объясняю
+  </text>
+  <text x="152" y="330" fill="#F5F8FF" font-family="Sora, Segoe UI, sans-serif" font-size="60" font-weight="800" letter-spacing="-2.2">
+    математику для
+  </text>
+  <text x="152" y="396" fill="#F5F8FF" font-family="Sora, Segoe UI, sans-serif" font-size="60" font-weight="800" letter-spacing="-2.2">
+    5-11 класса, ОГЭ и ЕГЭ
+  </text>
+  <text x="152" y="466" fill="#F5F8FF" fill-opacity="0.78" font-family="Sora, Segoe UI, sans-serif" font-size="28">
+    Индивидуальные занятия, сильная база, понятная структура
+  </text>
+  <text x="152" y="504" fill="#F5F8FF" fill-opacity="0.78" font-family="Sora, Segoe UI, sans-serif" font-size="28">
+    и прямой контакт через Telegram, WhatsApp, телефон и email.
+  </text>
+
+  <rect x="784" y="110" width="262" height="372" rx="32" fill="#F9FBFF" fill-opacity="0.12"/>
+  <rect x="812" y="138" width="206" height="316" rx="26" fill="#F9FBFF"/>
+  <rect x="830" y="158" width="170" height="118" rx="20" fill="#1B2950"/>
+  <path d="M848 190H982" stroke="#F5F8FF" stroke-opacity="0.08"/>
+  <path d="M848 226H982" stroke="#F5F8FF" stroke-opacity="0.08"/>
+  <path d="M848 262H982" stroke="#F5F8FF" stroke-opacity="0.08"/>
+  <path d="M868 170V262" stroke="#F5F8FF" stroke-opacity="0.08"/>
+  <path d="M904 170V262" stroke="#F5F8FF" stroke-opacity="0.08"/>
+  <path d="M940 170V262" stroke="#F5F8FF" stroke-opacity="0.08"/>
+  <path d="M856 230C870 212 896 202 924 202C958 202 986 216 998 238" stroke="#F5F8FF" stroke-width="6" stroke-linecap="round"/>
+  <path d="M856 230C869 258 892 274 922 274C956 274 982 254 996 220" stroke="#F0B44E" stroke-width="6" stroke-linecap="round"/>
+  <rect x="830" y="302" width="170" height="118" rx="18" fill="#E7EEFC"/>
+  <path d="M854 330H976" stroke="#C6D6F7"/>
+  <path d="M854 360H976" stroke="#C6D6F7"/>
+  <path d="M854 390H976" stroke="#C6D6F7"/>
+  <path d="M880 314V408" stroke="#F0B44E" stroke-opacity="0.6"/>
+  <path d="M906 392L934 364L954 386L980 342" stroke="#2250A3" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
